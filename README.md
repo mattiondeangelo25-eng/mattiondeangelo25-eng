@@ -12,8 +12,13 @@ I'm a computer science student passionate about creating web applications  that 
 
 ## 🌱 What I'm Currently Working On
 - Building responsive websites as part of my web development coursework
-- Contributing documentation improvements to open source projects
+- Creating projects to improve my skills
 
-## 📫 Let's Connect
+##  Connection
 - **Email**: DeAngelo.Mattison@newberry.edu,mattiondeangelo25@gmail.com
 - **Portfolio**: [Coming Soon!]
+
+## ⚡ Fun Facts
+- 📚 love reading
+- ☕ hot chocalate lover especially during fall
+-     I draw when I'm not busy 
