@@ -22,3 +22,4 @@ I'm a computer science student passionate about creating web applications  that 
 - 📚 love reading
 - ☕ hot chocalate lover especially during fall
 -     I draw when I'm not busy 
+---------------
