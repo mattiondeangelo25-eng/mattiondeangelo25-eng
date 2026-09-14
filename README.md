@@ -4,6 +4,13 @@ I'm a computer science student passionate about creating web applications  that 
 <!--
 **mattiondeangelo25-eng/mattiondeangelo25-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## 🛠️ Technologies & Tools
+- **Languages**: Python, HTML, CSS
+- **Currently Learning**: React, Node.js, javascript
+- **Tools**: VS Code, Git, GitHub, 
+- **Interests**: Responsive design, accessibility, clean code,creativity
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
