@@ -10,6 +10,9 @@ I'm a computer science student passionate about creating web applications  that 
 - **Tools**: VS Code, Git, GitHub, 
 - **Interests**: Responsive design, accessibility, clean code,creativity
 
+## 🌱 What I'm Currently Working On
+- Building responsive websites as part of my web development coursework
+- Contributing documentation improvements to open source projects
 
 Here are some ideas to get you started:
 
